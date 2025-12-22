@@ -25,10 +25,18 @@
   **Proceedings of the IEEE Symposium on Security and Privacy (IEEE S&P)**, pp. 966–983.  
   [[Paper]](https://ieeexplore.ieee.org/document/9833598) **(BIG4, CCF-A)**
 
-- Z. Huang, D. Wang, and **Y. Zou** (2024).  
+<!-- - Z. Huang, D. Wang, and **Y. Zou** (2024).  
   *Prob-Hashcat: Accelerating Probabilistic Password Guessing with Hashcat by Hundreds of Times*.  
   **Proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses**, pp. 674–692.  
-  [[Paper]](https://dl.acm.org/doi/10.1145/3678890.3678919) **(CCF-B)**
+  [[Paper]](https://dl.acm.org/doi/10.1145/3678890.3678919) **(CCF-B)** -->
+
+- Yunkai Zou, Ding Wang*. 
+  *Advances in Password Guessing Attacks*. 
+  **Journal of Cryptologic Research, 10th Anniversary Commemorative Special Issue** (《密码学报》**创刊10周年纪念特刊特邀论文**), 2024, 11(1): 67-100 (in Chinese) [[Paper]](https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/jcr24.pdf)
+
+- Ding Wang*, Yunkai Zou, Yi Tao, Bin Wang. 
+  *Password Guessing Based on Recurrent Neural Networks and Generative Adversarial Networks*. 
+  **Chinese Journal of Computers** (《计算机学报》), 2021, 44(8): 2519-2534. (**2023 High Impact Paper of CNKI**, in Chinese) [[Paper]] (https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/cjc21-wd1.pdf)
 
 <!-- - Y. Zhang, Z. Hou, **Y. Zou**, Z. Li, and D. Wang (2024).  
   *EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning*.  
