@@ -2,16 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I received my Ph.D. degree in Computer Science and Technology from **Nankai University** in 2024. I am currently a postdoctoral researcher at the **College of Cryptology and Cyber Science, Nankai University**.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zouyunkai[at]nankai.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+<!-- #### Education
+Ph.D., Computer Science and Technology, College of Computer Science, Nankai University, 2020—2024.\
+B.E. & M.E., Avionics, Sino-European Institute of Aviation Engineering, Civil Aviation University of China, 2013—2020. -->
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning for Password security
 
