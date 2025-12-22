@@ -1,4 +1,4 @@
-#### Selected Publications
+<!-- #### Selected Publications -->
 
 - **Y. Zou**, D. Wang, and F. Duan (2026).  
   *Success Rates Doubled with Only One Character: Mask Password Guessing*.  
