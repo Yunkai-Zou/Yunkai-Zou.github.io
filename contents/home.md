@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+
 
 I received my Ph.D. degree in Computer Science and Technology from **Nankai University** in 2024. I am currently a postdoctoral researcher at the **College of Cryptology and Cyber Science, Nankai University**.
 
