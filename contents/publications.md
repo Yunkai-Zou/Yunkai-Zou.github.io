@@ -36,7 +36,7 @@
 
 - Ding Wang*, Yunkai Zou, Yi Tao, Bin Wang. 
   *Password Guessing Based on Recurrent Neural Networks and Generative Adversarial Networks*. 
-  **Chinese Journal of Computers** (《计算机学报》), 2021, 44(8): 2519-2534. (**2023 High Impact Paper of CNKI**, in Chinese) [[Paper]] (https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/cjc21-wd1.pdf)
+  **Chinese Journal of Computers** (《计算机学报》), 2021, 44(8): 2519-2534. (**2023 High Impact Paper of CNKI**, in Chinese) [[Paper]](https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/cjc21-wd1.pdf)
 
 <!-- - Y. Zhang, Z. Hou, **Y. Zou**, Z. Li, and D. Wang (2024).  
   *EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning*.  
