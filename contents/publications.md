@@ -25,10 +25,10 @@
   **Proceedings of the IEEE Symposium on Security and Privacy (IEEE S&P)**, pp. 966–983.  
   [[Paper]](https://ieeexplore.ieee.org/document/9833598) **(BIG4, CCF-A)**
 
-<!-- - Z. Huang, D. Wang, and **Y. Zou** (2024).  
+- Z. Huang, D. Wang, and **Y. Zou** (2024).  
   *Prob-Hashcat: Accelerating Probabilistic Password Guessing with Hashcat by Hundreds of Times*.  
   **Proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses**, pp. 674–692.  
-  [[Paper]](https://dl.acm.org/doi/10.1145/3678890.3678919) **(CCF-B)** -->
+  [[Paper]](https://dl.acm.org/doi/10.1145/3678890.3678919) **(CCF-B)**
 
 - **Yunkai Zou**, Ding Wang*. 
   *Advances in Password Guessing Attacks*. 
