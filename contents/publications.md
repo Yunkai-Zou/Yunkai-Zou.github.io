@@ -27,7 +27,7 @@
 
 - Z. Huang, D. Wang, and **Y. Zou** (2024).  
   *Prob-Hashcat: Accelerating Probabilistic Password Guessing with Hashcat by Hundreds of Times*.  
-  **Proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses**, pp. 674–692.  
+  **Proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)**, pp. 674–692.  
   [[Paper]](https://dl.acm.org/doi/10.1145/3678890.3678919) **(CCF-B)**
 
 - **Yunkai Zou**, Ding Wang. 
