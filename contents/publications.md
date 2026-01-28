@@ -3,7 +3,7 @@
 - **Y. Zou**, D. Wang, and F. Duan (2026).  
   *Success Rates Doubled with Only One Character: Mask Password Guessing*.  
   **Proceedings of the Network and Distributed System Security Symposium (NDSS)**.  
-  [[Paper]](https://wangdingg.weebly.com/) **(BIG4, CCF-A)**
+  [[Paper]](https://www.researchgate.net/publication/399136423_Success_Rates_Doubled_with_Only_One_Character_Mask_Password_Guessing) **(BIG4, CCF-A)**
 
 - **Y. Zou**, M. An, and D. Wang (2025).  
   *Password Guessing Using Large Language Models*.  
